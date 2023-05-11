@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="clear" translatable="false">C</string>
+    <string name="divide" translatable="false">÷</string>
+    <string name="multiply" translatable="false">×</string>
+    <string name="back" translatable="false">⌫</string>
+    <string name="seven" translatable="false">7</string>
+    <string name="eight" translatable="false">8</string>
+    <string name="nine" translatable="false">9</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="four" translatable="false">4</string>
+    <string name="five" translatable="false">5</string>
+    <string name="six" translatable="false">6</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="one" translatable="false">1</string>
+    <string name="two" translatable="false">2</string>
+    <string name="three" translatable="false">3</string>
+    <string name="equal" translatable="false">=</string>
+    <string name="plusMinus" translatable="false">+/-</string>
+    <string name="exp" translatable="false">^</string>
+    <string name="separator" translatable="false">.</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="error">Error</string>
+    <string name="History">History</string>
+    <string name="Back">Back</string>
+    <string name="History_delete_alert">History will be deleted</string>
+    <string name="alert_check">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="openBracket" translatable="false">(</string>
+    <string name="closeBracket" translatable="false">)</string>
+    <string name="reciprocal" translatable="false">1/x</string>
+    <string name="sqrt" translatable="false">√</string>
+    <string name="mod" translatable="false">mod</string>
+    <string name="e" translatable="false">e</string>
+    <string name="ln" translatable="false">Ln</string>
+    <string name="log" translatable="false">Log</string>
+    <string name="sin" translatable="false">sin</string>
+    <string name="cos" translatable="false">cos</string>
+    <string name="tan" translatable="false">tan</string>
+    <string name="inv" translatable="false">Inv</string>
+    <string name="deg" translatable="false">Deg</string>
+    <string name="pi" translatable="false">π</string>
+    <string name="copy">copy</string>
+    <string name="paste">paste</string>
+</resources>

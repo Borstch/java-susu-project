@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="error">Ошибка</string>
+    <string name="History">История</string>
+    <string name="Back">Назад</string>
+    <string name="History_delete_alert">История будет удалена</string>
+    <string name="alert_check">Вы уверены?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="copy">копировать</string>
+    <string name="paste">вставить</string>
+</resources>
